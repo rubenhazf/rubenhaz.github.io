@@ -1,0 +1,23 @@
+body 
+{
+    background-color:black;
+}
+#imagen
+{
+	height:125px;
+}
+.header
+{
+    
+    color:whitesmoke;
+}
+.row
+{
+    padding:25px;
+    background-color:deepskyblue;
+}
+.cuerpo
+{
+    color:whitesmoke;
+    background-color:white;
+}
